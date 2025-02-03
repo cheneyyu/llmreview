@@ -1,2 +1,2 @@
 # llmreview
-Using LLM api to create scientific review
+Using LLM api to create scientific reviews.
